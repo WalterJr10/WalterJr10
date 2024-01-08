@@ -3,4 +3,4 @@
 - 💙💛💙 Boca Juniors
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JAVA, Python and English language.
-- Actually doing some projects with Reactjs
+- Actually doing some projects with Reactjs and Laravel
